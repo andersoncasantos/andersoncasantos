@@ -1,4 +1,4 @@
-## Olá! Sou o Anderson Santos, Desenvolvedor Full Stack Developer.
+## Olá! Sou o Anderson Santos, Desenvolvedor Back-End e Front-End.
 <div align="center">
   <a href="https://github.com/andersoncasantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersoncasantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
